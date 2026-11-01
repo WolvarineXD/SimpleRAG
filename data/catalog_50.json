@@ -1,0 +1,651 @@
+[
+  {
+    "id": "P1",
+    "name": "NovaBook Air 14",
+    "category": "laptop",
+    "price_inr": 52000,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "cpu": "Intel i5",
+      "battery_hr": 10,
+      "ssd": true
+    },
+    "description": "NovaBook Air 14 - A lightweight laptop with 8GB RAM, Intel i5 processor, 512GB SSD, and 10 hour battery life. Perfect for everyday computing and portability."
+  },
+  {
+    "id": "P2",
+    "name": "NovaBook Pro 15",
+    "category": "laptop",
+    "price_inr": 78000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "Intel i7",
+      "gpu": "RTX 3050",
+      "battery_hr": 8,
+      "ssd": true
+    },
+    "description": "NovaBook Pro 15 - High-performance laptop with 16GB RAM, Intel i7 processor, 1TB SSD, NVIDIA RTX 3050 graphics card, and 8 hour battery life. Ideal for content creation and gaming."
+  },
+  {
+    "id": "P3",
+    "name": "SoundCore X40",
+    "category": "earbuds",
+    "price_inr": 3500,
+    "specs": {
+      "battery_hr": 30,
+      "anc": true,
+      "ip_rating": "IP54"
+    },
+    "description": "SoundCore X40 - True wireless earbuds with 30 hour total battery life, Active Noise Cancellation (ANC), and IP54 water resistance rating for durability."
+  },
+  {
+    "id": "P4",
+    "name": "SoundCore Studio Pro",
+    "category": "headset",
+    "price_inr": 8200,
+    "specs": {
+      "battery_hr": 50,
+      "anc": true,
+      "foldable": true
+    },
+    "description": "SoundCore Studio Pro - Over-ear headphones with exceptional 50 hour battery life, studio-grade Active Noise Cancellation, and foldable design for easy storage."
+  },
+  {
+    "id": "P5",
+    "name": "TechPro Elite 16",
+    "category": "laptop",
+    "price_inr": 65000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Intel i7",
+      "gpu": "GTX 1650",
+      "battery_hr": 7,
+      "ssd": true
+    },
+    "description": "TechPro Elite 16 - Powerful laptop with 16GB RAM, Intel i7 processor, 512GB SSD, and NVIDIA GTX 1650 graphics. Great for programming and light gaming."
+  },
+  {
+    "id": "P6",
+    "name": "CreatorBook Max 15",
+    "category": "laptop",
+    "price_inr": 69000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "AMD Ryzen 7",
+      "gpu": "RTX 3050",
+      "battery_hr": 9,
+      "ssd": true
+    },
+    "description": "CreatorBook Max 15 - Content creator's choice with 16GB RAM, AMD Ryzen 7 processor, 1TB SSD, and RTX 3050 graphics. Perfect for video editing and 3D work."
+  },
+  {
+    "id": "P7",
+    "name": "SwiftBook 13",
+    "category": "laptop",
+    "price_inr": 45000,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "cpu": "Intel i5",
+      "battery_hr": 12,
+      "ssd": true
+    },
+    "description": "SwiftBook 13 - Ultra-portable laptop with 8GB RAM, Intel i5 processor, 256GB SSD, and excellent 12 hour battery life. Ideal for students and travelers."
+  },
+  {
+    "id": "P8",
+    "name": "WorkStation Pro 17",
+    "category": "laptop",
+    "price_inr": 95000,
+    "specs": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "cpu": "Intel i9",
+      "gpu": "RTX 4060",
+      "battery_hr": 6,
+      "ssd": true
+    },
+    "description": "WorkStation Pro 17 - Professional workstation with 32GB RAM, Intel i9 processor, 1TB SSD, and RTX 4060 graphics. Built for intensive video editing and 3D rendering."
+  },
+  {
+    "id": "P9",
+    "name": "BudgetBook 14",
+    "category": "laptop",
+    "price_inr": 35000,
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 256,
+      "cpu": "Intel i3",
+      "battery_hr": 8,
+      "ssd": true
+    },
+    "description": "BudgetBook 14 - Affordable laptop with 4GB RAM, Intel i3 processor, 256GB SSD, and 8 hour battery life. Good for basic tasks and web browsing."
+  },
+  {
+    "id": "P10",
+    "name": "GamerBook 15",
+    "category": "laptop",
+    "price_inr": 82000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Intel i7",
+      "gpu": "RTX 3060",
+      "battery_hr": 5,
+      "ssd": true
+    },
+    "description": "GamerBook 15 - Gaming laptop with 16GB RAM, Intel i7 processor, 512GB SSD, and powerful RTX 3060 graphics. Ready for AAA gaming and content creation."
+  },
+  {
+    "id": "P11",
+    "name": "StudentPro 14",
+    "category": "laptop",
+    "price_inr": 48000,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "cpu": "AMD Ryzen 5",
+      "battery_hr": 11,
+      "ssd": true
+    },
+    "description": "StudentPro 14 - Student-friendly laptop with 8GB RAM, AMD Ryzen 5 processor, 512GB SSD, and 11 hour battery life. Perfect for classes and assignments."
+  },
+  {
+    "id": "P12",
+    "name": "CodeMaster 15",
+    "category": "laptop",
+    "price_inr": 58000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Intel i7",
+      "battery_hr": 9,
+      "ssd": true
+    },
+    "description": "CodeMaster 15 - Developer's laptop with 16GB RAM, Intel i7 processor, 512GB SSD, and 9 hour battery life. Excellent for programming and multitasking."
+  },
+  {
+    "id": "P13",
+    "name": "BassBoost 200",
+    "category": "earbuds",
+    "price_inr": 2500,
+    "specs": {
+      "battery_hr": 20,
+      "anc": false,
+      "ip_rating": "IP55"
+    },
+    "description": "BassBoost 200 - Budget earbuds with 20 hour battery life and IP55 water resistance. Great bass for music lovers on a budget."
+  },
+  {
+    "id": "P14",
+    "name": "ProSound Elite",
+    "category": "earbuds",
+    "price_inr": 6500,
+    "specs": {
+      "battery_hr": 35,
+      "anc": true,
+      "ip_rating": "IPX7"
+    },
+    "description": "ProSound Elite - Premium earbuds with 35 hour battery life, advanced ANC, and IPX7 waterproof rating. Audiophile-grade sound quality."
+  },
+  {
+    "id": "P15",
+    "name": "FitBuds Sport",
+    "category": "earbuds",
+    "price_inr": 3200,
+    "specs": {
+      "battery_hr": 25,
+      "anc": false,
+      "ip_rating": "IPX8"
+    },
+    "description": "FitBuds Sport - Sports earbuds with 25 hour battery life and IPX8 waterproof rating. Secure fit for workouts and running."
+  },
+  {
+    "id": "P16",
+    "name": "QuietZone Pro",
+    "category": "headset",
+    "price_inr": 12000,
+    "specs": {
+      "battery_hr": 60,
+      "anc": true,
+      "foldable": true
+    },
+    "description": "QuietZone Pro - Premium over-ear headphones with 60 hour battery life, best-in-class ANC, and foldable design. Perfect for travel and focus."
+  },
+  {
+    "id": "P17",
+    "name": "BeatBox 300",
+    "category": "headset",
+    "price_inr": 5500,
+    "specs": {
+      "battery_hr": 40,
+      "anc": false,
+      "foldable": true
+    },
+    "description": "BeatBox 300 - Affordable over-ear headphones with 40 hour battery life and foldable design. Great sound without ANC."
+  },
+  {
+    "id": "P18",
+    "name": "GamerZone RGB",
+    "category": "headset",
+    "price_inr": 4500,
+    "specs": {
+      "battery_hr": 30,
+      "anc": false,
+      "foldable": false
+    },
+    "description": "GamerZone RGB - Gaming headset with 30 hour battery life, RGB lighting, and clear voice chat. Designed for PC and console gaming."
+  },
+  {
+    "id": "P19",
+    "name": "StudioMax Monitor",
+    "category": "headset",
+    "price_inr": 15000,
+    "specs": {
+      "battery_hr": 45,
+      "anc": true,
+      "foldable": true
+    },
+    "description": "StudioMax Monitor - Professional studio headphones with 45 hour battery life, precise ANC, and foldable design. Studio-quality monitoring."
+  },
+  {
+    "id": "P20",
+    "name": "TechPhone 12 Pro",
+    "category": "smartphone",
+    "price_inr": 55000,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 4500,
+      "camera_mp": 108,
+      "display_inches": 6.7
+    },
+    "description": "TechPhone 12 Pro - Flagship smartphone with 8GB RAM, 256GB storage, 4500mAh battery, 108MP camera, and 6.7 inch display."
+  },
+  {
+    "id": "P21",
+    "name": "BudgetPhone X",
+    "category": "smartphone",
+    "price_inr": 18000,
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "battery_mah": 5000,
+      "camera_mp": 50,
+      "display_inches": 6.5
+    },
+    "description": "BudgetPhone X - Affordable smartphone with 4GB RAM, 64GB storage, long-lasting 5000mAh battery, 50MP camera, and 6.5 inch display."
+  },
+  {
+    "id": "P22",
+    "name": "ProPhone Elite",
+    "category": "smartphone",
+    "price_inr": 82000,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 5000,
+      "camera_mp": 200,
+      "display_inches": 6.8
+    },
+    "description": "ProPhone Elite - Premium flagship with 12GB RAM, 512GB storage, 5000mAh battery, 200MP camera, and stunning 6.8 inch display."
+  },
+  {
+    "id": "P23",
+    "name": "MidRange Pro 5G",
+    "category": "smartphone",
+    "price_inr": 32000,
+    "specs": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4800,
+      "camera_mp": 64,
+      "display_inches": 6.6
+    },
+    "description": "MidRange Pro 5G - Balanced smartphone with 6GB RAM, 128GB storage, 4800mAh battery, 64MP camera, and 5G connectivity."
+  },
+  {
+    "id": "P24",
+    "name": "FitWatch Pro",
+    "category": "smartwatch",
+    "price_inr": 12500,
+    "specs": {
+      "battery_days": 7,
+      "display_inches": 1.4,
+      "water_resistant": true,
+      "heart_rate": true,
+      "gps": true
+    },
+    "description": "FitWatch Pro - Premium smartwatch with 7 day battery life, 1.4 inch display, water resistance, heart rate monitoring, and built-in GPS."
+  },
+  {
+    "id": "P25",
+    "name": "ActiveBand 200",
+    "category": "smartwatch",
+    "price_inr": 4500,
+    "specs": {
+      "battery_days": 14,
+      "display_inches": 1.1,
+      "water_resistant": true,
+      "heart_rate": true,
+      "gps": false
+    },
+    "description": "ActiveBand 200 - Fitness band with impressive 14 day battery life, 1.1 inch display, water resistance, and heart rate tracking."
+  },
+  {
+    "id": "P26",
+    "name": "SmartWatch Ultra",
+    "category": "smartwatch",
+    "price_inr": 22000,
+    "specs": {
+      "battery_days": 5,
+      "display_inches": 1.9,
+      "water_resistant": true,
+      "heart_rate": true,
+      "gps": true
+    },
+    "description": "SmartWatch Ultra - Advanced smartwatch with 5 day battery, large 1.9 inch display, rugged water resistance, comprehensive health tracking, and GPS."
+  },
+  {
+    "id": "P27",
+    "name": "TechTab 10",
+    "category": "tablet",
+    "price_inr": 28000,
+    "specs": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "display_inches": 10.5,
+      "battery_hr": 12
+    },
+    "description": "TechTab 10 - Versatile tablet with 6GB RAM, 128GB storage, 10.5 inch display, and 12 hour battery life. Great for media and productivity."
+  },
+  {
+    "id": "P28",
+    "name": "ProTab 12 Plus",
+    "category": "tablet",
+    "price_inr": 52000,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "display_inches": 12.9,
+      "battery_hr": 10
+    },
+    "description": "ProTab 12 Plus - Professional tablet with 8GB RAM, 256GB storage, large 12.9 inch display, and 10 hour battery. Perfect for creative work."
+  },
+  {
+    "id": "P29",
+    "name": "StudentTab 8",
+    "category": "tablet",
+    "price_inr": 15000,
+    "specs": {
+      "ram_gb": 3,
+      "storage_gb": 64,
+      "display_inches": 8.0,
+      "battery_hr": 10
+    },
+    "description": "StudentTab 8 - Compact tablet with 3GB RAM, 64GB storage, 8 inch display, and 10 hour battery. Ideal for reading and light tasks."
+  },
+  {
+    "id": "P30",
+    "name": "PortaSound Boom",
+    "category": "speaker",
+    "price_inr": 5500,
+    "specs": {
+      "battery_hr": 20,
+      "water_resistant": true,
+      "bluetooth_version": "5.0"
+    },
+    "description": "PortaSound Boom - Portable Bluetooth speaker with 20 hour battery life, water resistance, and powerful sound. Perfect for outdoor parties."
+  },
+  {
+    "id": "P31",
+    "name": "MiniSound Compact",
+    "category": "speaker",
+    "price_inr": 2200,
+    "specs": {
+      "battery_hr": 12,
+      "water_resistant": false,
+      "bluetooth_version": "5.0"
+    },
+    "description": "MiniSound Compact - Compact Bluetooth speaker with 12 hour battery life and clear sound. Great for personal use and small spaces."
+  },
+  {
+    "id": "P32",
+    "name": "BassMaster 500",
+    "category": "speaker",
+    "price_inr": 8500,
+    "specs": {
+      "battery_hr": 24,
+      "water_resistant": true,
+      "bluetooth_version": "5.2"
+    },
+    "description": "BassMaster 500 - Premium speaker with 24 hour battery life, water resistance, latest Bluetooth 5.2, and deep bass response."
+  },
+  {
+    "id": "P33",
+    "name": "SmartHome Hub",
+    "category": "speaker",
+    "price_inr": 12000,
+    "specs": {
+      "battery_hr": 0,
+      "water_resistant": false,
+      "bluetooth_version": "5.0"
+    },
+    "description": "SmartHome Hub - Smart speaker with voice assistant, no battery (plug-in only), and smart home integration. Control your home with voice."
+  },
+  {
+    "id": "P34",
+    "name": "PowerBank 20K",
+    "category": "accessories",
+    "price_inr": 2500,
+    "specs": {
+      "capacity_mah": 20000,
+      "fast_charging": true
+    },
+    "description": "PowerBank 20K - High-capacity 20000mAh power bank with fast charging support. Keep your devices powered on the go."
+  },
+  {
+    "id": "P35",
+    "name": "USB-C Hub Pro",
+    "category": "accessories",
+    "price_inr": 3500,
+    "specs": {
+      "ports": 7,
+      "hdmi": true,
+      "ethernet": true
+    },
+    "description": "USB-C Hub Pro - 7-port USB-C hub with HDMI output, Ethernet port, and multiple USB connections. Essential for laptop productivity."
+  },
+  {
+    "id": "P36",
+    "name": "WirelessCharge Pad",
+    "category": "accessories",
+    "price_inr": 1800,
+    "specs": {
+      "fast_charging": true,
+      "multi_device": false
+    },
+    "description": "WirelessCharge Pad - Qi wireless charging pad with fast charging support. Convenient cable-free charging for compatible devices."
+  },
+  {
+    "id": "P37",
+    "name": "GamingMouse RGB Pro",
+    "category": "accessories",
+    "price_inr": 3200,
+    "specs": {
+      "dpi": 16000,
+      "programmable_buttons": 8
+    },
+    "description": "GamingMouse RGB Pro - Professional gaming mouse with 16000 DPI, 8 programmable buttons, and RGB lighting. Precision for competitive gaming."
+  },
+  {
+    "id": "P38",
+    "name": "MechKeyboard Elite",
+    "category": "accessories",
+    "price_inr": 8500,
+    "specs": {
+      "mechanical": true,
+      "rgb": true,
+      "wireless": true
+    },
+    "description": "MechKeyboard Elite - Premium mechanical keyboard with RGB backlighting and wireless connectivity. Tactile typing experience for gamers and professionals."
+  },
+  {
+    "id": "P39",
+    "name": "WebCam 4K Pro",
+    "category": "accessories",
+    "price_inr": 5500,
+    "specs": {
+      "resolution": "4K",
+      "fps": 30,
+      "autofocus": true
+    },
+    "description": "WebCam 4K Pro - 4K webcam with 30fps, autofocus, and low-light correction. Professional video quality for streaming and meetings."
+  },
+  {
+    "id": "P40",
+    "name": "LaptopStand Aluminum",
+    "category": "accessories",
+    "price_inr": 2800,
+    "specs": {
+      "adjustable": true,
+      "material": "aluminum"
+    },
+    "description": "LaptopStand Aluminum - Adjustable aluminum laptop stand for ergonomic viewing and cooling. Sturdy and portable design."
+  },
+  {
+    "id": "P41",
+    "name": "GraphicsPad Pro",
+    "category": "accessories",
+    "price_inr": 15000,
+    "specs": {
+      "pressure_levels": 8192,
+      "size_inches": 10
+    },
+    "description": "GraphicsPad Pro - Professional drawing tablet with 8192 pressure levels and 10 inch active area. Perfect for digital artists and designers."
+  },
+  {
+    "id": "P42",
+    "name": "ExternalSSD 1TB",
+    "category": "accessories",
+    "price_inr": 8000,
+    "specs": {
+      "capacity_gb": 1024,
+      "usb_version": "3.2",
+      "speed_mbps": 1050
+    },
+    "description": "ExternalSSD 1TB - Fast external SSD with 1TB capacity, USB 3.2, and 1050 MB/s read speed. Rapid file transfers and portable storage."
+  },
+  {
+    "id": "P43",
+    "name": "HDMICable 4K 3m",
+    "category": "accessories",
+    "price_inr": 800,
+    "specs": {
+      "length_m": 3,
+      "version": "2.1",
+      "supports_4k": true
+    },
+    "description": "HDMICable 4K 3m - Premium 3-meter HDMI 2.1 cable supporting 4K resolution. Reliable connection for displays and TVs."
+  },
+  {
+    "id": "P44",
+    "name": "ThunderBook 14",
+    "category": "laptop",
+    "price_inr": 62000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "AMD Ryzen 7",
+      "battery_hr": 10,
+      "ssd": true
+    },
+    "description": "ThunderBook 14 - Powerful laptop with 16GB RAM, AMD Ryzen 7 processor, 512GB SSD, and 10 hour battery life. Excellent for multitasking and productivity."
+  },
+  {
+    "id": "P45",
+    "name": "DesignBook 16",
+    "category": "laptop",
+    "price_inr": 68000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "cpu": "Intel i7",
+      "gpu": "RTX 3050 Ti",
+      "battery_hr": 7,
+      "ssd": true
+    },
+    "description": "DesignBook 16 - Designer's laptop with 16GB RAM, Intel i7 processor, 1TB SSD, and RTX 3050 Ti graphics. Optimized for creative applications and video editing."
+  },
+  {
+    "id": "P46",
+    "name": "UltraSlim Pro 13",
+    "category": "laptop",
+    "price_inr": 72000,
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "cpu": "Intel i7",
+      "battery_hr": 14,
+      "ssd": true
+    },
+    "description": "UltraSlim Pro 13 - Ultra-portable premium laptop with 16GB RAM, Intel i7 processor, 512GB SSD, and exceptional 14 hour battery life. Perfect for professionals on the move."
+  },
+  {
+    "id": "P47",
+    "name": "MediaBook 15",
+    "category": "laptop",
+    "price_inr": 56000,
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "cpu": "Intel i5",
+      "gpu": "GTX 1650",
+      "battery_hr": 8,
+      "ssd": true
+    },
+    "description": "MediaBook 15 - Multimedia laptop with 12GB RAM, Intel i5 processor, 512GB SSD, and GTX 1650 graphics. Good for content consumption and light editing."
+  },
+  {
+    "id": "P48",
+    "name": "OfficeBook 14",
+    "category": "laptop",
+    "price_inr": 42000,
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "cpu": "Intel i5",
+      "battery_hr": 11,
+      "ssd": true
+    },
+    "description": "OfficeBook 14 - Office-focused laptop with 8GB RAM, Intel i5 processor, 512GB SSD, and 11 hour battery life. Reliable for business tasks."
+  },
+  {
+    "id": "P49",
+    "name": "AirBuds Mini",
+    "category": "earbuds",
+    "price_inr": 1800,
+    "specs": {
+      "battery_hr": 18,
+      "anc": false,
+      "ip_rating": "IP54"
+    },
+    "description": "AirBuds Mini - Affordable true wireless earbuds with 18 hour battery life and IP54 protection. Simple and reliable for everyday listening."
+  },
+  {
+    "id": "P50",
+    "name": "WorkSound Pro",
+    "category": "headset",
+    "price_inr": 6800,
+    "specs": {
+      "battery_hr": 45,
+      "anc": true,
+      "foldable": false
+    },
+    "description": "WorkSound Pro - Professional headset with 45 hour battery life and effective ANC. Designed for remote work and online meetings with clear microphone."
+  }
+]
